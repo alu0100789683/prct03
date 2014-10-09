@@ -1,0 +1,6 @@
+1)
+Hello World y devuelve nil
+
+21)
+La diferencia es la ejecución en forma iterativa de ruby (irb) lo trata como un método devolviendo nil y de la otra forma no. 
+
