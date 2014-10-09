@@ -4,3 +4,16 @@ Hello World y devuelve nil
 21)
 La diferencia es la ejecución en forma iterativa de ruby (irb) lo trata como un método devolviendo nil y de la otra forma no. 
 
+26) 
+puts x , muestra el valor de x -> 10 y devuelve nil
+Al definir el metido bello , nos vuelve a devolver nil
+Al llamar al metido hello , nos muestra Hello world y devuelve mil
+Al llamar al metido byebye, nos muestra byebye World y devuelve nil
+Al cambiar la variable x a “changed” nos devuelve el string asignado
+El valor de x al finalizar el programa es change
+
+27)
+Es un estilo de debuger que permite realizar cambios en la ejecución de el programa evaluado.
+
+
+
