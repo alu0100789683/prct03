@@ -13,7 +13,7 @@ Al cambiar la variable x a “changed” nos devuelve el string asignado
 El valor de x al finalizar el programa es change
 
 27)
-Es un estilo de debuger que permite realizar cambios en la ejecución de el programa evaluado.
+Es un estilo de debuger que permite realizar cambios(ejecutar sentencias) en la ejecución del programa mientras el testeo se lleva a cabo.
 
 
 
